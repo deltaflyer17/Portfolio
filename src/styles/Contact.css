@@ -42,3 +42,21 @@
     text-decoration: underline;
   }
   
+  /* Mobile responsiveness */
+@media (max-width: 768px) {
+  .contact-title {
+    font-size: 3rem; /* Reduce font size on smaller screens */
+  }
+
+  .contact-container {
+    padding: 1.5rem; /* Reduce padding */
+  }
+
+  .contact-info {
+    font-size: 1rem; /* Reduce text size */
+  }
+
+  .contact-page {
+    padding: 1rem; /* Adjust padding for smaller screens */
+  }
+}
