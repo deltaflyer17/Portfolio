@@ -61,6 +61,14 @@ html, body {
   background-color: #ff4757;
 }
 
+/* Mobile responsiveness for buttons */
+@media (max-width: 768px) {
+  .cta-button {
+    padding: 0.8rem 1.5rem;     /* Adjust padding for smaller buttons */
+    font-size: 1rem;             /* Make font size smaller */
+  }
+}
+
 .links {
   display: flex;
   gap: 2rem;
