@@ -12,7 +12,8 @@ const Projects = () => {
           <h2 className="project-title">Physics Calculator</h2>
           <p className="project-description">
             As part of my submission for the AP Computer Science Principles exam, my partner and I made a fully functioning physics calculator.
-            It takes in input such as applied force and frictional force, and uses physics principles in order to display a graph of the object's movement.
+            It takes in input such as applied force and frictional force, and uses physics principles in order to display a graph of the object's movement. 
+            Calculations are made using kinematic equations, resulting in values for acceleration, horizontal displacement, and maximum velocities.
           </p>
         </div>
 
