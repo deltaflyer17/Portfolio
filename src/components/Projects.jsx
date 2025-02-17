@@ -21,7 +21,7 @@ const Projects = () => {
           <p className="project-description">
             I am able to work with JavaScript, HTML, Python, CSS, and React.
             Represented my school at the Tennessee State Convention for Technology Student Association.
-            Achieved state-semifinalist, and will represent my school again thsi year from April 2-5.
+            Achieved state-semifinalist, and will represent my school again this year from April 2-5.
           </p>
         </div>
 

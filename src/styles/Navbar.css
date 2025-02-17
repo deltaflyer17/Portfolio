@@ -99,3 +99,10 @@
     display: flex;                  /* Show the mobile navbar list */
   }
 }
+
+/* Smaller font size for mobile screens */
+@media (max-width: 768px) {
+  .navbar-item {
+    font-size: 1.5rem;  /* Make font size smaller for mobile */
+  }
+}

@@ -64,7 +64,7 @@ html, body {
 /* Mobile responsiveness for buttons */
 @media (max-width: 768px) {
   .cta-button {
-    padding: 0.8rem 1.5rem;     /* Adjust padding for smaller buttons */
+    padding: 0.4rem 1.3rem;     /* Adjust padding for smaller buttons */
     font-size: 1rem;             /* Make font size smaller */
   }
 }
