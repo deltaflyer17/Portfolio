@@ -14,9 +14,6 @@ const Projects = () => {
             As part of my submission for the AP Computer Science Principles exam, my partner and I made a fully functioning physics calculator.
             It takes in input such as applied force and frictional force, and uses physics principles in order to display a graph of the object's movement.
           </p>
-          <a href="https://example.com" className="project-link" target="_blank" rel="noopener noreferrer">
-            View Project
-          </a>
         </div>
 
         <div className="project-card">
